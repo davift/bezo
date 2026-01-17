@@ -1,0 +1,9 @@
+title: "Bezo Art Gallery"
+description: "Photography by Bezo"
+baseurl: ""
+url: "https://davift.github.io/bezo"
+
+author:
+  name: "Bezo"
+
+theme: photorama
