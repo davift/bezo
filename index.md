@@ -52,3 +52,7 @@ layout: default
 
 ![](025.jpeg)
 
+![](026.jpeg)
+
+![](027.jpeg)
+
